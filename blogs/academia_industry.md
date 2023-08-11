@@ -28,6 +28,6 @@ Research in academia promotes transparency and the sharing of knowledge with the
 In summary, the decision to pursue a career in research within academia or industry is a challenging one, and it's a decision I continue to grapple with. At the core of this choice, I must strike a balance between factors such as stability, interest, and passion. My hope is that I'll eventually find a place that offers an ideal equilibrium of these considerations.
 
 ---
-[Back to Blog](./blog.md)
+[Back to Blog](../blog.md)
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)

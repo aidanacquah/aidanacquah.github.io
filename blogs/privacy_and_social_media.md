@@ -62,6 +62,6 @@ My perspective might evolve over time.
 For now, having this content on my terms gives me a sense of control while maintaining a certain level of privacy. 
 
 ---
-[Back to Blog](./blog.md)
+[Back to Blog](../blog.md)
 
-[Back to Home](./index.md)
+[Back to Home](../index.md)
