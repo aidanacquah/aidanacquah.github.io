@@ -23,10 +23,7 @@
       "startDate": "2022-01-01",
       "endDate": "Present",
       "summary": "Developed and maintained open-source pip packages and GitHub repositories. Adapted and ran unit and system testing for updates. Contributed to OxWearables packages licensed for commercial use.",
-      "highlights": [
-        "Maintained production-level open-source tools",
-        "Conducted unit testing on pip packages"
-      ]
+      "highlights": ["Maintained production-level open-source tools", "Conducted unit testing on pip packages"]
     },
     {
       "name": "GSK plc",
