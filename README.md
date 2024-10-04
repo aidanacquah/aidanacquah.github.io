@@ -1,4 +1,4 @@
-Website for Aidan Acquah.
+Repository to build Aidan Acquah's website.
 
 ## License
 
