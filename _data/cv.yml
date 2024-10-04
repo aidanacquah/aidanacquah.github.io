@@ -2,96 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Aidan Acquah
+    - name: Email
+      value: aayacquah@gmail.com
+    - name: Location
+      value: London
     - name: Languages
-      value: English, German
+      value: English (Fluent), French (B2), Twi (Conversational)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Engineering Science (Health Data Science)
+      institution: University of Oxford, Oxford, UK
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Trained in advanced data science and machine learning techniques ranging from balanced random forests to self-supervised ResNet-18 models in Python.
+        - Applied statistical analyses in health research using Cox regression models in R.
+        - Focused on the application of wearable sensors and machine learning for Parkinson's disease prediction.
+    - title: MEng in Biomedical Engineering (First Class Honors)
+      institution: Imperial College London, London, UK
+      year: 2013 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Studied subjects including Medical Science, Programming, and Signal Processing.
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: OxWearables Developer
+      institution: University of Oxford, UK
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed and maintained open-source pip packages and GitHub repositories.
+        - Adapted and ran unit and system testing for updates made to live pip packages.
+        - OxWearables packages and repositories are licensed out for commercial use.
+    - title: Student Researcher
+      institution: GSK plc
+      year: March 2023 - June 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Conducted advanced analyses of health data using machine learning models.
+        - Collaborated internationally for novel digital biomarker discovery.
+    - title: Programming Lab Tutor
+      institution: University of Oxford, UK
+      year: 2022 - 2024
       description:
+        - Delivered lab sessions in R, Python, and C++, focusing on data analysis and machine learning concepts for undergraduate and master's students.
+    - title: Analyst Programmer
+      institution: Tessella Ltd
+      year: September 2017 - August 2020
+      description:
+        - Developed and tested software for large clients, applying a range of programming languages (.NET, Angular.js, React.js) in data-intensive environments.
+        - Delivered production-level software and machine-learning tools for critical systems.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Key Publications & Conferences
+  type: time_table
+  contents:
+    - title: "Daily steps are a predictor of, but perhaps not a modifiable risk factor for Parkinson's Disease: findings from the UK Biobank."
+      platform: medRxiv Preprint
+      year: 2024
+    - title: "Walking recognition in Parkinson's disease populations using wrist-worn accelerometers."
+      event: ICAMPAM 2024
+      year: 2024
+      description:
+        - Showcased machine learning applications in wearable sensor data.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: actinet
+      year: Present
+      description: pip package for activity data analysis using wearable sensors.
+    - title: actipy, asleep, stepcount
+      year: Present
+      description: Contributor to pip packages for accelerometer data analysis.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Key Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning & Data Science
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Experienced in developing and applying machine learning models for health data analysis, including predictive modelling and data-driven insights using Python, R, and MATLAB.
+    - title: Technical Proficiency
       items:
-        - Description 1.
-        - Description 2.
+        - C, C++, C#, Python, R, SQL, Angular.js; development of pip packages for health data applications.
+    - title: Research & Analysis
+      items:
+        - Strong research background with a focus on health data science, biomedical engineering, and wearable sensor data.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Gaming, Hiking, Data Visualisation
