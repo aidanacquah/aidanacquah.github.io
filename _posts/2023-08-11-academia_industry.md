@@ -4,7 +4,7 @@ title: Academia vs Industry
 date: 2023-08-11 12:32:13
 description:
 tags:
-categories: sample-posts
+categories: phd-thoughts
 tabs: true
 ---
 

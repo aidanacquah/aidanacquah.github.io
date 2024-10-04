@@ -4,7 +4,7 @@ title: Expectation vs. Reality
 date: 2024-09-17 12:32:13
 description:
 tags:
-categories: sample-posts
+categories: phd-thoughts
 tabs: true
 ---
 
