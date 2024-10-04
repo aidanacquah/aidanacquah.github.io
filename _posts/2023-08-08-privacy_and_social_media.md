@@ -2,7 +2,7 @@
 layout: post
 title: Social Media and Privacy
 date: 2023-08-08 12:32:13
-description: 
+description:
 tags:
 categories: phd-thoughts
 tabs: true
