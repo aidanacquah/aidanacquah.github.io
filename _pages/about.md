@@ -32,7 +32,7 @@ Through my travels, I've come to appreciate the value of learning multiple langu
 
 As an enthusiastic sports fan, I enjoy a wide array of athletic pursuits.
 Bouldering is a personal favorite whenever leisure allows, and my childhood passion for football remains a part of me.
-I have aspirations to reignite my interest in running, as I was a regular participant in my local [Parkrun](https://www.parkrun.org.uk/), but haven't gone for some time.
+I have aspirations to reignite my interest in running, as I was a regular participant in my local [Parkrun](https://www.parkrun.com/), but haven't gone for some time.
 I have also recently taken up hiking, and am hoping to summit Kilimanjaro soon.
 
 Gaming, despite my somewhat limited skills, also occupies a space in my life.
