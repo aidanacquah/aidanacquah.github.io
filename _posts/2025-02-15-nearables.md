@@ -18,10 +18,10 @@ As the hours passed, an increasing discomfort made it impossible to ignore, and 
 Only then was I able to get a restful night’s sleep.
 This experience sparked several critical questions in my mind regarding the use of wrist-worn devices for sleep monitoring:
 
-* What proportion of the population similarly struggles to sleep while wearing a smartwatch?
-* Would this discomfort introduce accessibility challenges in our models and studies?
-* Could this disturbance lead to bias in research findings, as those who struggle with sleep monitoring may be underrepresented in studies?
-* Could this disturbance lead to subtle changes in monitored sleep behaviour, that wouldn't exist without the device?
+- What proportion of the population similarly struggles to sleep while wearing a smartwatch?
+- Would this discomfort introduce accessibility challenges in our models and studies?
+- Could this disturbance lead to bias in research findings, as those who struggle with sleep monitoring may be underrepresented in studies?
+- Could this disturbance lead to subtle changes in monitored sleep behaviour, that wouldn't exist without the device?
 
 As my research progressed, my project shifted towards activity monitoring rather than sleep analysis, meaning I never had to directly address these concerns.
 However, I now believe that an ideal solution to these issues is emerging: sleep mats.
