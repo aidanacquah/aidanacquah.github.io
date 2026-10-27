@@ -13,9 +13,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Engineering Science (Health Data Science)
+    - title: DPhil in Engineering Science (Health Data Science)
       institution: University of Oxford, Oxford, UK
-      year: 2020 - Present
+      year: 2020 - 2025
       description:
         - Trained in advanced data science and machine learning techniques ranging from balanced random forests to self-supervised ResNet-18 models in Python.
         - Applied statistical analyses in health research using Cox regression models in R.
@@ -29,9 +29,16 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Research Fellow
+      institution: University College London, UK
+      year: 2026 - Present
+      description:
+        - Researching into the use of smartwatches to deliver interventions to increase physical activity.
+        - Supervising student projects using wearables data.
+        - Developing and delivering material for Medical Device Enterprise Scenario Master's degree course.
     - title: OxWearables Developer
       institution: University of Oxford, UK
-      year: 2022 - Present
+      year: 2025 - 2026
       description:
         - Developed and maintained open-source pip packages and GitHub repositories.
         - Adapted and ran unit and system testing for updates made to live pip packages.

@@ -5,7 +5,8 @@ title: CV
 nav: true
 nav_order: 2
 cv_pdf: aidan_acquah_cv.pdf
-description: I am an experienced data analyst and software engineer in both commercial and academic spaces. I worked full-time as an Analyst Programmer at Tessella Ltd, where I developed software solutions for large clients in diverse sectors, including BP, Rolls Royce, and Unilever. Following this, I began my PhD in Health Data Science, investigating how wrist-worn accelerometers could be used to better predict Parkinson’s disease. I bring a unique blend of academic rigour and practical knowledge, allowing me to navigate both research environments and real-world commercial projects. I am now looking to apply my skills in industry to have a broader impact, directly benefiting consumers and making a tangible difference in their lives.
+description: Highly skilled Software Engineer and Data Scientist with a deep specialisation in Machine Learning and Health Data Science. I am currently a Research Fellow at UCL (University College London), holding a DPhil in Engineering Science (Health Data Science) from University of Oxford, and a First-Class Master’s in Biomedical Engineering (MEng) from Imperial College London. My research has focused on the use of wearable sensors and AI for the prediction and prevention of disease. Prior experience includes working as an Analyst Programmer at Tessella Ltd, where I developed production-grade software for major clients like BP, Rolls-Royce, and Unilever. I have also made significant contributions to open-source health data projects, including widely used Python packages for data analysis.
+
 toc:
   sidebar: left
 ---
